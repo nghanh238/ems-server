@@ -1,0 +1,45 @@
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.deps.json
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.dll
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.pdb
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.Common.dll
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.Common.pdb
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.AssemblyReference.cache
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.AssemblyInfoInputs.cache
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.AssemblyInfo.cs
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.CoreCompileInputs.cache
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.CopyComplete
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.dll
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\refint\Demo.Webapi.DL.dll
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.pdb
+C:\Users\txdao\source\repos\Demo.Webapi\Demo.Webapi.DL\obj\Debug\net6.0\ref\Demo.Webapi.DL.dll
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.deps.json
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.dll
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.pdb
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.Common.dll
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.Common.pdb
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.AssemblyReference.cache
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.AssemblyInfoInputs.cache
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.AssemblyInfo.cs
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.CoreCompileInputs.cache
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.CopyComplete
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.dll
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\refint\Demo.Webapi.DL.dll
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.pdb
+C:\Users\txdao\source\repos\EMS\Demo.Webapi.DL\obj\Debug\net6.0\ref\Demo.Webapi.DL.dll
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.deps.json
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.dll
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.DL.pdb
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.Common.dll
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\bin\Debug\net6.0\Demo.Webapi.Common.pdb
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.AssemblyReference.cache
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.AssemblyInfoInputs.cache
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.AssemblyInfo.cs
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Web.9F2527FB.Up2Date
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.dll
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\refint\Demo.Webapi.DL.dll
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\Demo.Webapi.DL.pdb
+C:\Users\ThinkPro\Desktop\Code ĐỒ ÁN\BE\am_backend-main\Demo.Webapi.DL\obj\Debug\net6.0\ref\Demo.Webapi.DL.dll
